@@ -20,6 +20,8 @@ int main()
     {
         printf("failure!")
     }
+    printf("This program is finished!")
+    
     return 0
 ]
 
