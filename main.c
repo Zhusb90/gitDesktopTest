@@ -20,4 +20,7 @@ int main()
     {
         printf("failure!")
     }
-}
+    return 0
+]
+
+/* EOF */
