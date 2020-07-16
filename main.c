@@ -14,13 +14,13 @@ int main()
     rt=helloworld();
     if(rt==0)
     {
-        printf("success!")
+        printf("success!");
     }
     else
     {
-        printf("failure!")
+        printf("failure!");
     }
-    printf("This program is finished!")
+    printf("This program is finished!");
     
     return 0
 ]
