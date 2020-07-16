@@ -6,11 +6,4 @@
 /************************************************/
 
 #include <stdio.h>
-
-int helloworld()
-{
-    printf("Hello world\n");
-    printf("anther:zhusb\n");
-    printf("date:2020-07-16\n");
-    return 0
-}
+int helloworld();

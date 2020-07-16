@@ -6,11 +6,18 @@
 /************************************************/
 
 #include <stdio.h>
+#include <stdio.h>
 
-int helloworld()
+int main()
 {
-    printf("Hello world\n");
-    printf("anther:zhusb\n");
-    printf("date:2020-07-16\n");
-    return 0
+    int rt=0;
+    rt=helloworld();
+    if(rt==0)
+    {
+        printf("success!")
+    }
+    else
+    {
+        printf("failure!")
+    }
 }
